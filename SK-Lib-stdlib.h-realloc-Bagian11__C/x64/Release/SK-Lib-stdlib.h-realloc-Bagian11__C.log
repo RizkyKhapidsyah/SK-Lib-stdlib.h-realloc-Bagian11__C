@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-realloc-Bagian11__C\SK-Lib-stdlib.h-realloc-Bagian11__C\Source.c(21,14): warning C4477: 'printf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-realloc-Bagian11__C\SK-Lib-stdlib.h-realloc-Bagian11__C\Source.c(21,14): message : consider using '%zu' in the format string
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-realloc-Bagian11__C\SK-Lib-stdlib.h-realloc-Bagian11__C\Source.c(31,14): warning C4477: 'printf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-realloc-Bagian11__C\SK-Lib-stdlib.h-realloc-Bagian11__C\Source.c(31,14): message : consider using '%zu' in the format string
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  SK-Lib-stdlib.h-realloc-Bagian11__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-realloc-Bagian11__C\x64\Release\SK-Lib-stdlib.h-realloc-Bagian11__C.exe
